@@ -10,11 +10,11 @@ for i in `ls 'EIGEN_ImageCollector/downloads/portrait'`;do
 	echo $rest
 done
 # resize to same size
-cd /root/Bureaublad/TOP_APS/EIGEN_pix2pix_tools
+cd ../EIGEN_pix2pix_tools
 bash resize.sh 'EIGEN_capture_faces/detected_faces'
 
 # make dataset
-cd /root/Bureaublad/TOP_APS/EIGEN_progressive_growing_of_gans
+cd ../EIGEN_progressive_growing_of_gans
 python dataset_tool.py create_from_images 'datasets/portrait' 'EIGEN_capture_faces/detected_face_resized' 
 
 # train set
