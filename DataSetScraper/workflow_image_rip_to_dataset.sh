@@ -3,7 +3,7 @@
 ##     workflow image rip to dataset by Boudewijn Kooij 2019        ##
 ####################BEGIN ARGPARSE####################################
 # add root folder to bashrc as DATA_SCRAPER_ROOT_PATH
-ROOT_PATH = $DATA_SCRAPER_ROOT_PATH 
+ROOT_PATH = '/root/terra_1TB/BACKUP_TOP_APPS/DataSetScraper/tool1'
 echo $ROOT_PATH
 ###########################HELPER#####################################
 showHelp() {

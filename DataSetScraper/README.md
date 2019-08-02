@@ -1,18 +1,19 @@
 # DataSetScraper
 workflow image rip to dataset and train it
 
-# Usage 
+## Usage 
 First: export DATA_SCRAPER_ROOT_PATH='/path/to/this/project'
 
-Usage: bash workflow_image_rip_to_dataset.sh 
+workflow_image_rip_to_dataset.sh 
 						--output-folder <folder where the set will be writen> 
 						--max-results <max search results> 
 						--search-key <keyswords that need to be searched>
+# Example
 '''
-Usage:   \
-			--output-folder 'aliensfaceportrait' \
-			--max-results 100 \
-			--search-key 'alien face portrait'
+bash workflow_image_rip_to_dataset.sh \
+						--output-folder 'aliensfaceportrait' \
+						--max-results 100 \
+						--search-key 'alien face portrait'
 '''   
 # Options
 -h, --help              Display help
