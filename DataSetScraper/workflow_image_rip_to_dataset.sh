@@ -1,20 +1,19 @@
 #!/bin/bash
 ######################################################################
-##     workflow image rip to dataset by Boudewijn Kooij 2019        ##
+##     Workflow image rip to dataset by Boudewijn Kooij 2019        ##
 ####################BEGIN ARGPARSE####################################
-# add root folder to bashrc as DATA_SCRAPER_ROOT_PATH
-ROOT_PATH = '/root/terra_1TB/BACKUP_TOP_APPS/DataSetScraper/tool1'
-echo $ROOT_PATH
+
+dirname $0
+ROOT_PATH='/root/terra_1TB/BACKUP_TOP_APPS/tool1/DataSetScraper'
 ###########################HELPER#####################################
 showHelp() {
 	echo "  
-        First     export DATA_SCRAPER_ROOT_PATH='/path/to/this/project'
 		Usage:    
-                bash workflow_image_rip_to_dataset.sh [ --help ] 
+        
+        bash workflow_image_rip_to_dataset.sh [ --help ] 
                                                     --search-key 'alien portrait' 
                                                     --max-results 1000 
                                                     --debug
-          
 		-h, --help              Display help
 		-d, --debug         	debug mode.
 		-s, --search-key        search key for images
@@ -66,30 +65,31 @@ fi
 # #clear old images
 sudo rm $ROOT_PATH/EIGEN_capture_faces/detected_faces/*
 sudo rm $ROOT_PATH/EIGEN_capture_faces/detected_faces_resized/*
-# sudo rm -r $ROOT_PATH/EIGEN_ImageCollector/ripped_images/*
+sudo rm -r $ROOT_PATH/EIGEN_ImageCollector/ripped_images/*
 
 # scrape images
 cd $ROOT_PATH/EIGEN_ImageCollector
-python GetImages.py "${SEARCH_KEY}" $MAX_RESULTS
+python $ROOT_PATH/EIGEN_ImageCollector/GetImages.py "${SEARCH_KEY}" $MAX_RESULTS
 
 # capture faces 
 cd $ROOT_PATH/EIGEN_capture_faces
 #rip all faces from images in folder
-folder=$SEARCH_KEY
+folder="${SEARCH_KEY}"
 to_replace=' '
 replacement="+"
 folder_clean=${folder//$to_replace/$replacement}
+
 # loop over images and get faceboxes
 for i in `ls $ROOT_PATH'/EIGEN_ImageCollector/ripped_images/'$folder_clean`; do 
-	python capture_faces.py $ROOT_PATH'/EIGEN_ImageCollector/ripped_images/'$folder_clean'/'$i
+	python $ROOT_PATH/EIGEN_capture_faces/capture_faces.py $ROOT_PATH'/EIGEN_ImageCollector/ripped_images/'$folder_clean'/'$i
 done
 
 # Resize face images to same size
 cd $ROOT_PATH/EIGEN_pix2pix_tools
-bash resize.sh $ROOT_PATH'/EIGEN_capture_faces/detected_faces'
+bash $ROOT_PATH/EIGEN_pix2pix_tools/resize.sh $ROOT_PATH'/EIGEN_capture_faces/detected_faces'
 
 # Make dataset
 cd $ROOT_PATH/EIGEN_progressive_growing_of_gans
-python dataset_tool.py create_from_images 'datasets/'$OUTPUT_FOLDER $ROOT_PATH'/EIGEN_capture_faces/detected_faces_resized' 
+python $ROOT_PATH/EIGEN_progressive_growing_of_gans/dataset_tool.py create_from_images 'datasets/'$OUTPUT_FOLDER $ROOT_PATH'/EIGEN_capture_faces/detected_faces_resized' 
 echo $OUTPUT_FOLDER
 python train.py $OUTPUT_FOLDER
