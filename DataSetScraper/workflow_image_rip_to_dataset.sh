@@ -2,9 +2,9 @@
 ######################################################################
 ##     workflow image rip to dataset by Boudewijn Kooij 2019        ##
 ####################BEGIN ARGPARSE####################################
-ROOT_PATH='/root/terra_1TB/BACKUP_TOP_APPS/DataSetScraper'
+# add root folder to bashrc as DATA_SCRAPER_ROOT_PATH
+ROOT_PATH = $DATA_SCRAPER_ROOT_PATH 
 echo $ROOT_PATH
-
 ###########################HELPER#####################################
 showHelp() {
 	echo "  
@@ -57,9 +57,8 @@ done
 if [[ $HELP == 1 ]]; then
 	showHelp
 fi
-
 ####################END ARGPARSE#####################################
-# exit 1
+
 # #clear old images
 sudo rm $ROOT_PATH/EIGEN_capture_faces/detected_faces/*
 sudo rm $ROOT_PATH/EIGEN_capture_faces/detected_faces_resized/*
@@ -82,7 +81,7 @@ for i in `ls $ROOT_PATH'/EIGEN_ImageCollector/ripped_images/'$folder_clean`; do
 done
 
 # Resize face images to same size
-cd /root/Bureaublad/TOP_APS/EIGEN_pix2pix_tools
+cd $ROOT_PATH/EIGEN_pix2pix_tools
 bash resize.sh $ROOT_PATH'/EIGEN_capture_faces/detected_faces'
 
 # Make dataset
