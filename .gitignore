@@ -4,4 +4,5 @@
 *.log
 *.h5
 *.jpeg
-
+*.tfrecords
+*.debian
