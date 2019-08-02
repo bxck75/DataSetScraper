@@ -8,9 +8,13 @@ echo $ROOT_PATH
 ###########################HELPER#####################################
 showHelp() {
 	echo "  
-		Usage: bash workflow_image_rip_to_dataset.sh [ -h ] --search-key 'alien portrait' --max-results 1000 --debug
-        Usage:  bash workflow_image_rip_to_dataset.sh --output-folder 'aliensfaceportrait' --max-results 100 --search-key 'alien face portrait'
-        
+        First     export DATA_SCRAPER_ROOT_PATH='/path/to/this/project'
+		Usage:    
+                bash workflow_image_rip_to_dataset.sh [ --help ] 
+                                                    --search-key 'alien portrait' 
+                                                    --max-results 1000 
+                                                    --debug
+          
 		-h, --help              Display help
 		-d, --debug         	debug mode.
 		-s, --search-key        search key for images
