@@ -1,0 +1,124 @@
+chromedriver/oldstable,now 73.0.3683.75-1~deb9u1 amd64 [geïnstalleerd]
+ruby-chromedriver-helper/unstable 2.1.0-7 all
+gallery-dl               1.9.0       
+/usr/bin/chromedriver
+
+Item no.: 1 --> Item name = cat+face+portrait
+Evaluating...
+Starting Download...
+Completed Image ====> 1.abyssinian-cat-face-portrait-cat-dreams-photography.jpg
+Completed Image ====> 2.92367912-portrait-of-snow-bengal-cat-proud-face-on-isolated-on-white-background-front-view.jpg
+Completed Image ====> 3.cat-1605317_960_720.jpg
+Completed Image ====> 4.92909027-portrait-of-curious-face-domestic-cat-isolated-black-background-front-view.jpg
+Completed Image ====> 5.cat-3315710_960_720.jpg
+Completed Image ====> 6.pT7r5zXpc.jpg
+Completed Image ====> 7.Animal-Cute-Cat-Cats-Eyes-Face-Pet-Portrait-3431597.jpg
+Completed Image ====> 8.cat-face-portrait-close-up-kitten.jpg
+Completed Image ====> 9.il_570xN.1519934172_lpwb.jpg
+Completed Image ====> 10.cat-portrait-fierce-grumpy-purebred-cat-funny-domestic-pets-close-up-of-cat-eyes-gray-thoroughbred-cat-face-veterinary-concept-caring-for-pets_sqzu08h6c_thumbnail-full05.png
+Completed Image ====> 11.View-Whiskers-Portrait-Cats-Eyes-Cat-Face-Cat-3994739.jpg
+Completed Image ====> 12.adorable-animal-animal-portrait-animal-world-blur-cat-cat-face-close-up-creature-cute-domestic-domestic-cat-downy-expression-eyes-face-fauna-feline-focus-fur-furry-graceful-grey-hair-head-kitten-kitty-little-looking-nose-pet-portrait-whisker-whiskers-young-1483971.jpg
+Invalid or missing image format. Skipping...
+Completed Image ====> 13.a3849b62f44cc494e288f8bfffd33a4d.jpg
+Completed Image ====> 14.02395-Tabby-cats-face-white-background.jpg
+Completed Image ====> 15.19278058-cute-cat-face-close-up-portrait-looking-straight-at-the-camera.jpg
+Completed Image ====> 16.depositphotos_8958100-stock-photo-cat-face-with-beautiful-eyes.jpg
+Completed Image ====> 17.animal-animal-photography-animal-portrait-blur-blurred-background-cat-cat-face-close-up-domestic-domestic-cat-eyes-feline-focus-fur-furry-grey-head-kitten-kitty-little-looking-mammal-pet-whiskers-young-1492507.jpg
+Completed Image ====> 18.PTcolor.jpg
+Completed Image ====> 19.5898092-tabby-cat-face.jpg
+Invalid or missing image format. Skipping...
+Completed Image ====> 20.s-l300.jpg
+Completed Image ====> 21.cat-cute-face-portrait-beautiful-eyes-close-up-118796193.jpg
+Completed Image ====> 22.b5pyybbcctxughbfkdhixvrkuoti722anxbzta7k7lzqugevynsrnvhskbhite5o-.jpg
+Completed Image ====> 23.posters-cat-face-close-up-portrait.jpg
+Completed Image ====> 24.cat-face-portrait-in-studio-HK0XJA.jpg
+Completed Image ====> 25.8fee02fe-743b-439e-a586-3de822a346c8_1.517d14510469a32562a8b9fae90cac21.jpeg
+Completed Image ====> 26.cat-face-portrait.jpg
+Completed Image ====> 27.3089647-adidas_animal_animal-portrait_animal-world_cat_cat-face_cat-portrait_cats-eyes_close_domestic-cat_eyes_fur_graceful_head-drawing_in-the-free_mackerel_mammal_mieze_nature_out_pet_striped_tiger-cat.jpg
+Completed Image ====> 28.4600581-cat-face-close-up-view-eyes-portrait-animal-world.jpg
+Completed Image ====> 29.white-cat-face-blue-eyes-portrait-of-muzzle_v_9me56ol__F0000.png
+Completed Image ====> 30.closeup-portrait-of-face-white-cat-blue-eyes-isolated-black-background-sergey-taran.jpg
+Completed Image ====> 31.redhead-fluffy-kitten-face-close-up-stock-photos_csp34963533.jpg
+Completed Image ====> 32.F094tS3Ep2Jd2zug92zk_Cat12.jpg
+Completed Image ====> 33.s-l640.jpg
+Completed Image ====> 34.cat-59412_960_720.jpg
+Completed Image ====> 35.Leinwandbild-entzueckendes-Katzengesicht.jpg
+Completed Image ====> 36.depositphotos_222262072-stock-photo-close-portrait-pet-tabby-cat.jpg
+Completed Image ====> 37.stock-photo-closeup-portrait-of-aggressive-bengal-cat-face-on-isolated-black-background-front-view-fear-kitty-444825139.jpg
+Completed Image ====> 38.half-face-portrait-grumpy-himalayan-cat-15186160.jpg.webp
+Completed Image ====> 39.Domestic-Cat-Adidas-Cat-Cat-Portrait-Cat-Face-2643935.jpg
+Completed Image ====> 40.582d8da8-6023-4c62-8d78-fefa7ef07adc_1.a5b119d03dd950bbb9cbe3dcb4b2ae14.jpeg
+Completed Image ====> 41.cat-cat-face-sleep-exhausted-162302.jpeg
+Completed Image ====> 42.Cat%20portrait%20face%20blur%20background%20wallpaper%20%201.jpg
+Completed Image ====> 43.61m5pvebjoL._SX425_.jpg
+Completed Image ====> 44.il_340x270.1842626635_t32f.jpg
+Completed Image ====> 45.cat-face-portrait-animals-ac2ddf-1024.jpg
+Completed Image ====> 46.08b2eb2a4b6dbaee6581c68f92ee059b.jpg
+Completed Image ====> 47.rcnrqz8Mi.jpg
+Completed Image ====> 48.abyssinian-cat-face-portrait-black-and-white-cat-dreams-photography.jpg
+Completed Image ====> 49.pretty-cat-face-stock-photos_csp35442335.jpg
+Completed Image ====> 50.storyblocks-close-up-portrait-of-abyssinian-cat-face-on-black-background_SrYYba7x7_SB_PM.jpg
+Completed Image ====> 51.0884b38cc066453ef3c1992ef56ae486.jpg
+Completed Image ====> 52.cat-face-portrait-image-black-white.jpg
+Completed Image ====> 53.pixel-red-cat-portrait-detailed-isolated-vector-21557147.jpg
+Completed Image ====> 54.cat2-mixed-media-oil-picture.jpg
+Completed Image ====> 55.face-cat-portrait-eyes-texture-fur-nose-furry-whiskers-skin-feline-sleepy-sleep-lazy-watching-eye-kitten-hff-mammal-textures-vertebrate-close-up-cat-like-mammal-snout-small-to-medium-sized-cats-tabby-cat-happyfurryfriday-shayla-529343.jpg
+Completed Image ====> 56.ginger-cat-face-portrait-eye-detail-eyes-animal-looking-directly-to-camera-to-closeup-79291862.jpg
+Completed Image ====> 57.stock-photo-animal-portrait-cat-red-cute-mammal-eye-pet-fur-5037212b-f2a0-4518-9d20-3e46edcd0398.jpg
+Completed Image ====> 58.59118117-closeup-portrait-of-cute-scottish-straight-male-cat-face-on-isolated-black-background-front-view-cur.jpg
+Completed Image ====> 59.250813495.jpg
+Invalid or missing image format. Skipping...
+Completed Image ====> 60.cat-face-close-up-portrait-in-front-view-download-free-11.jpeg
+Completed Image ====> 61.white-cat-close-up-face-blue-eyes-portrait-of-the-muzzle_4_s6p_-hx__F0000.png
+Completed Image ====> 62.cat-face-portrait-animals-1498c5-1024.jpg
+Completed Image ====> 63.71DdmUxmIfL._SX425_.jpg
+Invalid or missing image format. Skipping...
+Completed Image ====> 64.lev-profil-morda-temnyi-fon-priroda-portret-dikie-koshki-kos.jpg
+Completed Image ====> 65.p1141015350-3.jpg
+Completed Image ====> 66.01482294.jpg
+Completed Image ====> 67.domestic-cat-1163352_1280.jpg
+URLError on an image...trying next one... Error: HTTP Error 404: Not Found
+Completed Image ====> 68.Cat-Animal-Eyes-yellow-kitty-kitten-Close-Up-face-Head-Background-Wallpaper.jpg
+Completed Image ====> 69.black-cat-face-portrait-studio-260nw-739433659.jpg
+Completed Image ====> 70.1000_F_208133154_bLxwDJAxxWEroN7hKepnvLkvANxhMbzn.jpg
+Completed Image ====> 71.stock-photo-nature-portrait-cat-cute-eye-face-natural-eyes-cats-575f1b72-3fe5-43a3-aa50-d0a7364fece6.jpg
+Completed Image ====> 72.AdobeStock_216320976.jpeg
+Completed Image ====> 73.kitten-cat-face-portrait-profile-view.jpg
+Completed Image ====> 74.Half-face-portrait-of-an-Abyssinian-cat.jpg
+Invalid or missing image format. Skipping...
+Completed Image ====> 75.cat-domestic-cat-pet-cat-face.jpg
+Completed Image ====> 76.500_F_210369858_kscT1i96797BcWqtksmHw6tBCK4F8LEi.jpg
+Completed Image ====> 77.dx4lpzj128rax6n7sary.jpg
+Completed Image ====> 78.pexels-photo-327018.jpeg
+Completed Image ====> 79.cat-portrait-art-vermont.jpg
+Completed Image ====> 80.Cat-face-forward.jpg
+Completed Image ====> 81.kot-koshka-siamskaia-siamskii-portret-morda-golubye-glaza-fo.jpg
+Completed Image ====> 82.GettyImages-9015747841.jpg
+Invalid or missing image format. Skipping...
+Completed Image ====> 83.cat-1597845_960_720.jpg
+Invalid or missing image format. Skipping...
+Completed Image ====> 84.500_F_256616454_hnscB7HkOXfR2LM4RnPjD16yzeQGVqe3.jpg
+Completed Image ====> 85.storyblocks-portrait-of-one-white-cat-with-black-patches-looking-directly-at-viewer-unique-shaped-face_SOW7yil_7_SB_PM.jpg
+Completed Image ====> 86.red-cat-face-with-blue-eyes-portrait-made-in-polygonal-style-kitten-face-head-cats-in-the-low-poly-for-design-t-shirt-print-pet-cat-portrait-stylized-kittens-face-on-white-background_gg85979353.jpg
+Completed Image ====> 87.3016608-adorable_animal_cat_cat-face_cute_domestic_eyes_feline_fur_kitten_looking_mammal_pet_portrait_whiskers_young.jpg
+Completed Image ====> 88.young-female-bengal-cat-close-up-face-portrait-isolated-on-white-background-FP7B71.jpg
+Completed Image ====> 89.Cat_Head_Face_Portrait_Cute_79073.Png
+Completed Image ====> 90.il_794xN.1735377772_htjp.jpg
+Completed Image ====> 91.face-white-cat-portrait-sitting-closeup-grey-nose-furry-whiskers-British-happy-gray-pet-feline-Kitty-lie-British-shorthair-isolated-animal-pretty-close-view-cute-adorable-girl-little-smile-woman-background-funny-fun-looking-kitten-young-indoor-human-scottish-side-posing-lovely-friendly-mammal-shorthair-domestic-vertebrate-cat-like-mammal-small-to-medium-sized-cats-paw-domestic-short-haired-cat-pedigree-meow-purebred-pedigreed-muzzle-purr-529452.jpg
+Completed Image ====> 92.stock-photo-portrait-of-cat-hand-drawn-illustration-digitally-colored-351933992.jpg
+
+
+Unfortunately all 100 could not be downloaded because some images were not downloadable. 92 is all we got for this search filter!
+
+Errors: 8
+
+
+Everything downloaded!
+Total errors: 8
+Total time taken: 92.91940665245056 Seconds
+Start : Sat Aug  3 00:30:07 2019
+End : Sat Aug  3 00:30:08 2019
+googleimagesdownload --keywords cat+face+portrait --limit 100 --chromedriver "chromedriver"
+gallery-dl --dest gallery-dl/ --range 1-100 https://www.flickr.com/search/?text=cat+face+portrait
+Ripped : 84 GoogleImage files in total. And 85 In this session
+Ripped : -1 Flickr files in total. And 0 In this session

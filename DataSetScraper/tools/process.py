@@ -287,7 +287,8 @@ def main():
 
         # init epoch counter for the queue
         local_init_op = tf.local_variables_initializer()
-        with tf.Session() as sess:
+        configProt = tf.ConfigProto( intra_op_parallelism_threads=1, inter_op_parallelism_threads=1 )
+        with tf.Session(config=configProt) as sess:
             sess.run(local_init_op)
 
             coord = tf.train.Coordinator()

@@ -1,0 +1,7 @@
+skipping 0 files that already exist
+processing 5 files
+1/5 complete  0.72 images/sec  0m1s elapsed  0m5s remaining
+2/5 complete  1.30 images/sec  0m1s elapsed  0m2s remaining
+3/5 complete  1.77 images/sec  0m1s elapsed  0m1s remaining
+4/5 complete  2.16 images/sec  0m1s elapsed  0m0s remaining
+5/5 complete  2.50 images/sec  0m1s elapsed  0m0s remaining

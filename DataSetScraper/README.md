@@ -1,25 +1,3 @@
-# DataSetScraper
-workflow image rip to dataset and train it
+# Image Data Set Tools and trainers
 
-## Usage 
-First: export DATA_SCRAPER_ROOT_PATH='/path/to/this/project'
-
-workflow_image_rip_to_dataset.sh 
-						--output-folder <folder where the set will be writen> 
-						--max-results <max search results> 
-						--search-key <keyswords that need to be searched>
-# Example
-'''
-bash workflow_image_rip_to_dataset.sh \
-						--output-folder 'aliensfaceportrait' \
-						--max-results 100 \
-						--search-key 'alien face portrait'
-'''   
-# Options
--h, --help              Display help
--d, --debug         	debug mode.
--s, --search-key        search key for images
--m, --max-results       Set max results
--o, --output-folder     Where does the dataset go?
-
-
+~/terra_1TB/BACKUP_TOP_APPS/tool1/DataSetScraper/EIGEN_Detect_Landmarks# p facial_landmarks.py -i '/root/Afbeeldingen/trump2.jpg' 
